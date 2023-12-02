@@ -129,3 +129,4 @@ Data/All_Sequences/9-3.tif
 *.png
 *.pt
 Data/accumulated_data.json
+Data/input_tensors.zip
