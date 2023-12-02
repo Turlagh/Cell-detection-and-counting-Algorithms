@@ -127,3 +127,5 @@ Data/All_Sequences/9-1.tif
 Data/All_Sequences/9-2.tif
 Data/All_Sequences/9-3.tif
 *.png
+*.pt
+Data/accumulated_data.json
