@@ -186,3 +186,6 @@ Pipeline/wandb/run-20231206_023413-2zvpx369/files/wandb-summary.json
 Pipeline/wandb/run-20231206_023413-2zvpx369/logs/debug-internal.log
 Pipeline/wandb/run-20231206_023413-2zvpx369/logs/debug.log
 Pipeline/wandb/run-20231206_023413-2zvpx369/run-2zvpx369.wandb
+Data/all_json.zip
+*.json
+Data/Input.zip
